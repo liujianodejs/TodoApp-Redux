@@ -1,0 +1,27 @@
+[
+  {
+    "id": 101,
+    "title": "item 1",
+    "checked": false
+  },
+  {
+    "id": 102,
+    "title": "item 2",
+    "checked": false
+  },
+  {
+    "id": 103,
+    "title": "item 3",
+    "checked": false
+  },
+  {
+    "id": 104,
+    "title": "item 4",
+    "checked": false
+  },
+  {
+    "id": 105,
+    "title": "item 5",
+    "checked": false
+  }
+]
